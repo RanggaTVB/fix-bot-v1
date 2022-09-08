@@ -61,7 +61,7 @@ global.owner = [
   ['6285880824790', 'RANGGA LOVERS', true],
   ['6285695759159', 'RANGGA-BOT-V1', true],
   ['6285694759159', 'RANGGA-BOT-V2', true],
-  ['79917357842', 'WH-MODS-BOT-V3', true] //Ganti jd nomormu sama Namamu
+  ['79917357842', 'RANGGA-BOT-V3', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm = '                「 RANGGA-MODS-BOT 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘RANGGA-MODS-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ RANGGA-MODS-BOT-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By RANGGA-DEV`
+global.author = '                「 RANGGA-BOT-V1  あ」'
 
 
 /*============== LOGO ==============*/
