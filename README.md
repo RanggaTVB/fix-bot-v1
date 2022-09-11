@@ -14,7 +14,7 @@
   <a href="https://www.youtube.com/channel/MrRstDarkZx"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/6285880724790">Klik disini untuk whatsapp OWNER </a>
+  <a href="https://wa.me/6285880824790">Klik disini untuk whatsapp OWNER </a>
 </h4>
 </p>
 
